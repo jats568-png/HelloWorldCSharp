@@ -1,0 +1,15 @@
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\bin\Debug\net9.0\Helloworldcsharp.exe
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\bin\Debug\net9.0\Helloworldcsharp.deps.json
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\bin\Debug\net9.0\Helloworldcsharp.runtimeconfig.json
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\bin\Debug\net9.0\Helloworldcsharp.dll
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\bin\Debug\net9.0\Helloworldcsharp.pdb
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\Helloworldcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\Helloworldcsharp.AssemblyInfoInputs.cache
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\Helloworldcsharp.AssemblyInfo.cs
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\Helloworldcsharp.csproj.CoreCompileInputs.cache
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\Helloworldcsharp.sourcelink.json
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\Helloworldcsharp.dll
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\refint\Helloworldcsharp.dll
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\Helloworldcsharp.pdb
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\Helloworldcsharp.genruntimeconfig.cache
+C:\Users\jiaa0\Documents\GitHub\HelloWorldCSharp\Helloworldcsharp\Helloworldcsharp\obj\Debug\net9.0\ref\Helloworldcsharp.dll
